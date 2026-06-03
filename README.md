@@ -40,18 +40,10 @@ Unindo a base sólida da minha formação técnica em **Desenvolvimento de Siste
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFernando-cc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernando-cc&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
----
 
 ## 📫 Vamos trabalhar juntos?
 
-Estou disponível para projetos freelancers nas áreas de desenvolvimento web, mobile, automações e banco de dados. 
+Estou disponível para projetos freelancers nas áreas de desenvolvimento web, automações e banco de dados. 
 
 * 📩 **E-mail:** Luizfernandocoelho13@gmail.com
 * 🏁 **Plataformas de Freela:** [99freelas](https://www.99freelas.com.br/user/luiz-fernando-coelho-clementino), [Workana](https://www.workana.com/freelancer/455108f5ca6bcf77999eb1b4f8c8aad1)
