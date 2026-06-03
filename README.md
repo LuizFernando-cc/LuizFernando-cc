@@ -54,4 +54,4 @@ Unindo a base sólida da minha formação técnica em **Desenvolvimento de Siste
 Estou disponível para projetos freelancers nas áreas de desenvolvimento web, mobile, automações e banco de dados. 
 
 * 📩 **E-mail:** Luizfernandocoelho13@gmail.com
-* 🏁 **Plataformas de Freela:** [99freelas](https://www.99freelas.com.br/user/luiz-fernando-coelho-clementino), 
+* 🏁 **Plataformas de Freela:** [99freelas](https://www.99freelas.com.br/user/luiz-fernando-coelho-clementino), [Workana](https://www.workana.com/freelancer/455108f5ca6bcf77999eb1b4f8c8aad1)
